@@ -1,0 +1,40 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ASP.NET
+wwwroot/lib/
+
+# NuGet
+*.nupkg
+packages/
+
+# Test Results
+TestResults/
+
+# Entity Framework
+Migrations/*Snapshot.cs
+
+# Dotnet
+*.cache
+*.pdb
